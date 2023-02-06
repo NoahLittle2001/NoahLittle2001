@@ -1,10 +1,10 @@
 ## Hi, I’m Noah Little. I'm a student at Southeast Missouri State University and I'm majoring in computer science.
-#### My interest:
+### My interest:
 - Game Design
 - Software Engineering
 - Web Design
 
-#### Link to my projects
+### Link to my projects
 [Project Portfolio](https://github.com/NoahLittle2001/Portfolio)
 
 <!---

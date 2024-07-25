@@ -1,8 +1,10 @@
 ## Hi, I’m Noah Little. I'm a student at Southeast Missouri State University and I'm majoring in computer science.
 ### My interest:
-- Game Design
-- Software Engineering
 - Web Design
+- Geographic Information Systems
+- Data Analytics
+- Software Engineering
+- Game Design
 
 ### Current Projects
 - Currently learning to use React to create my first MERN stack project.

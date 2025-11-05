@@ -1,14 +1,16 @@
-## Hi, I’m Noah Little. Recently graduated with my undergrad and masters in computer science with a minor in cyber security from SEMO. Currently working at Ameren as an Associate Software Engineer in the field of Geographic Information Systems (GIS).
-### My interest:
+# Hi, I’m Noah Little 👋  
+Recently graduated with my undergrad and masters in Computer Science with a minor in Cybersecurity from SEMO. Currently working at Ameren as an Associate Software Engineer in the field of Geographic Information Systems (GIS).
+
+## 💡 Interests
 - Web Design
 - Geographic Information Systems
 - Competitive Programming
 
-### Current Projects
+## 🚧 Current Projects
 - Mastering React Native with a recipe/shopping app.
 
-### Projects
-[Spyware]([https://github.com/NoahLittle2001/Portfolio](https://github.com/NoahLittle2001/Spyware))
+## 📁 Featured Projects
+- [Spyware](https://github.com/NoahLittle2001/Spyware)
 
 ### My Languages and Tools
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)

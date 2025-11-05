@@ -1,16 +1,11 @@
-## Hi, I’m Noah Little. I'm a student at Southeast Missouri State University and I'm majoring in computer science.
+## Hi, I’m Noah Little. Recently graduated with my undergrad and masters in computer science with a minor in cyber security from SEMO. Currently working at Ameren as an Associate Software Engineer in the field of Geographic Information Systems (GIS).
 ### My interest:
 - Web Design
 - Geographic Information Systems
-- Data Analytics
-- Software Engineering
-- Game Design
+- Competitive Programming
 
 ### Current Projects
-- Currently learning to use React to create my first MERN stack project.
-
-### Possible Future Projects
-- Create MERN shopping list app with electron.
+- Mastering React Native with a recipe/shopping app.
 
 ### Link to my projects
 [Project Portfolio](https://github.com/NoahLittle2001/Portfolio)
